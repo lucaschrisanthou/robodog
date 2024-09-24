@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<robot name="robodog">
+    <webots>
+        <plugin type="robodogv2.my_robot_driver.MyRobotDriver" />
+    </webots>
+</robot>
